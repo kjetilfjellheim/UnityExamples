@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "CollisionDetectionWebGL.data.unityweb",
+"asmCodeUrl": "CollisionDetectionWebGL.asm.code.unityweb",
+"asmMemoryUrl": "CollisionDetectionWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "CollisionDetectionWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
