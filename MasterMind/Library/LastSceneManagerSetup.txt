@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/mastermind.unity
+- path: Assets/Mastermind.unity
   isLoaded: 1
   isActive: 1
