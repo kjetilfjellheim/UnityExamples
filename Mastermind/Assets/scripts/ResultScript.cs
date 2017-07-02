@@ -24,6 +24,8 @@ public class ResultScript : MonoBehaviour {
 
     private int guessNumber = 0;
 
+    public Button[] guessButton;
+
     // Use this for initialization
     void Start ()
     {
@@ -70,6 +72,10 @@ public class ResultScript : MonoBehaviour {
                 guessResult[i].sprite = yellowImage.sprite;
             }
         } 
+        for (int i = 0;i < 10; i++)
+        {
+            guessButton[i].enabled = false;
+        }
     } 
 
 }
