@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\ResultScript.cs">
+    <Files>
+      <File FileName="Assets\scripts\ResultScript.cs" Line="173" Column="1" />
+      <File FileName="Assets\scripts\DragPinScript.cs" Line="29" Column="31" />
+      <File FileName="Assets\scripts\DropPinScript.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\code\UnityExamples\Mastermind\Assets\scripts\ResultScript.cs" line="173" column="35" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
